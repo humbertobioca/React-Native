@@ -2,7 +2,7 @@
 ## Instalando:
 ### Node
 <p>Para instalar o ReactNative, precisamos inicialmente do Node.js.</p>
-<blockquote><https://nodejs.org/en/></blockquote><br>
+<https://nodejs.org/en/>
 <p>Após Instalar execute esse comando para ver se instalou corretamente</p>
 <code>npm -v</code>
 <p>Com este comando deverá verificar a versão instalada do Node.js.</p>
